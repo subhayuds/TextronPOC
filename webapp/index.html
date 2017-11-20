@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+		
+	<style>
+			.customWorkOrderBar{
+				background-color: #009DE0 !important;
+			}
+			
+			.customWorkOrderBarText{
+				color: #FFFFFF !important;
+			}
+			
+			.customHeader{
+				font-size: 2rem !important;
+			}
+			
+			.customWorkOrderLayout{
+				border: 1px solid #999999 !important;
+				list-style-position: inside !important;
+			}
+			
+			.customTableHeader{
+				color: #FFFFFF !important;
+			}
+			
+			.customMatrixLayoutCellWidth{
+				width: 10px  !important;
+			}
+			
+			#__dialog0-header-BarPH {
+         		background-color: #009DE0 !important;
+      		}
+      		
+      		#__dialog0-title{
+      			color: #FFFFFF !important;
+      		}
+      		
+			.sapUiMltPadRight{
+				padding: 0 0 0 0 !important;
+			}
+			
+			.sapMListTbl th{
+				background: #009DE0 !important;
+			}
+		</style>
+		
+		<script src="https://sapui5.netweaver.ondemand.com/resources/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.m,sap.ui.layout,sap.ui.commons"
+				data-sap-ui-theme="sap_bluecrystal"
+				data-sap-ui-xx-bindingSyntax="complex"
+				data-sap-ui-resourceroots='{
+					"textron.revision": "./"
+				}'>
+		</script>
+		<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
+
+		<script>
+			new sap.m.Shell({
+				app : new sap.ui.core.ComponentContainer({
+					name : "textron.revision"
+				})
+			}).placeAt("content");
+		</script>
+	</head>
+	<body class="sapUiBody" role="application">
+		<div id="content"></div>
+	</body>
+</html>

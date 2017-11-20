@@ -1,0 +1,111 @@
+{
+	"Revision": [
+		{
+			"Revnr"  : "00010996",						
+			"RevDate"	   : "01/17/2015",		
+			"Plant"		   : "4540",
+			"Tplnr"  : "680-0180",
+			"Equnr"  : "900000001000066916",            
+			"Workorder": [
+				{					
+					"WoId": "10144695",
+					"DueDate": "01/17/2015",
+					"Description": "22-20-01-0Mach Trim Failed CAS msg displ 01/17/2015 16:33:08 Emma M Sharpe (C34004) Phone 336541-1771 22-20-01-0Mach Trim Failed CAS msg displayed inflight and remained on until shutdown. Repeat write up. 680-0180 1",
+					"Notes": "Copy of Technical comments - Found defect but no codes were present.  Opened the panel to access the match trim actuator and connected the breakout box and air data test set.  Performed the match trim system check, operational check was good.",
+					"Status": "Released",
+					"Notifno": "300920255",
+					"SoldtoParty": "200004832",
+					"CSRname": "Bary Richardson"
+				},
+				{					
+					"WoId": "10144740",
+					"DueDate": "01/17/2015",
+					"Description": "Sink, faucet leaking",
+					"Notes": " ",
+					"Status": "Created",
+					"Notifno": "300920261",
+					"SoldtoParty": "200004832",
+					"CSRname": "Bary Richardson"
+				},
+				{					
+					"WoId": "10144742",
+					"DueDate": "5/15/2015",
+					"Description": "680 Maintenance Checklist",
+					"Notes": " ",
+					"Status": "Released",
+					"Notifno": "300920264",
+					"SoldtoParty": "200004832",
+					"CSRname": "Bary Richardson"
+				}
+			]
+		},
+		{
+            "Revnr": "00010996",
+            "RevDate": "01/17/2015",
+            "Plant": "4540",
+            "Tplnr": "680-0180",
+            "Equnr": "900000001000066916",
+            "Workorder": [
+                {
+                    "WoId": "10144695",
+                    "DueDate": "01/17/2015",
+                    "Description": "22-20-01-0Mach Trim Failed CAS msg displ 01/17/2015 16:33:08 Emma M Sharpe (C34004) Phone 336541-1771 22-20-01-0Mach Trim Failed CAS msg displayed inflight and remained onuntil shutdown.  Repeat write up. 680-0180 1",
+                    "Notes": "Copy of Technical comments - Found defect but no codes were present.  Opened the panel to access the match trim actuator and connected the breakout box and air data test set.  Performed the match trim system check, operational check was good.",
+                    "Status": "Released",
+                    "Notifno": "300920255",
+                    "SoldtoParty": "200004832",
+                    "CSRname": "Bary Richardson"
+                },
+                {
+                    "WoId": "10144740",
+                    "DueDate": "01/17/2015",
+                    "Description": "Sink, faucet leaking",
+                    "Notes": " ",
+                    "Status": "Created",
+                    "Notifno": "300920261",
+                    "SoldtoParty": "200004832",
+                    "CSRname": "Bary Richardson"
+                },
+                {
+                    "WoId": "10144742",
+                    "DueDate": "5/15/2015",
+                    "Description": "680 Maintenance Checklist",
+                    "Notes": " ",
+                    "Status": "Released",
+                    "Notifno": "300920264",
+                    "SoldtoParty": "200004832",
+                    "CSRname": "Bary Richardson"
+                }
+            ]
+        },
+		{
+			"Revnr"  : "00002243",						
+			"RevDate"	   : "03/31/2014",		
+			"Plant"		   : "4570",
+			"Tplnr"  : "680-0180",
+			"Equnr"  : "900000001000066916",            
+		"Workorder": [
+				{					
+					"WoId": "10047750",
+					"DueDate": "04/03/2014",
+					"Description": "Comply with expense report.",
+					"Notes": "",
+					"Status": "Released",
+					"Notifno": "300684469",
+					"SoldtoParty": "200004832",
+					"CSRname": "Kennet Jackson"
+				},
+				{					
+					"WoId": "10047324",
+					"DueDate": "04/01/2014",
+					"Description": "Oil streaking back on cowl from left eng",
+					"Notes": " ",
+					"Status": "Created",
+					"Notifno": "300676520",
+					"SoldtoParty": "200004832",
+					"CSRname": "Kenneth Jackson"
+				}
+			]
+		}
+	]
+}
